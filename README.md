@@ -45,7 +45,7 @@ Step 1: Star The Repo
 
 Star the repo by pressing the topmost-right button to start your wonderful journey
 
-![star repo](https://docs.github.com/assets/images/help/stars/starring-a-repository.png)
+![star repo]()
 
 </details>
 
@@ -56,9 +56,9 @@ Star the repo by pressing the topmost-right button to start your wonderful journ
 Step 2: Fork it
 </summary>
 
-On the [GitHub page for this repository](https://github.com/ndleah/python-mini-project), click on the Button "**Fork**".
+On the [GitHub page for this repository](https://github.com/Tusharajora/mini-python-projects.git), click on the Button "**Fork**".
 
-![fork image](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
+![fork image]()
 
 </details>
 
@@ -136,7 +136,7 @@ Step 5: Ready, Set, Go...
 Once you have completed these steps, you are ready to start contributing to the project and creating **pull requests**.
 
 - Create a folder in
-  [projects directory](https://github.com/ndleah/python-mini-project) according to your project name.
+  [projects directory](https://github.com/Tusharajora/mini-python-projects.git) according to your project name.
   > The folder name should follow the following format "Your_Project_Name_Here". For example: Dice_Stimulator
 - Write your code and add to the respective folder in the projects directory, locally.
 - Don't forget to add a `README.md` in your folder, according to the
@@ -182,26 +182,3 @@ Now wait, until _your Pull Request_ is approved! If there are any conflicts, you
 
 <br>
 
-## ![image](IMG/bookmark.svg) README Template for scripts
-
-please make sure to add a `README.md` file that follow the same construction as this template for consistency.
-
-[README Template](https://github.com/ndleah/python-mini-project/blob/master/README_TEMPLATE.md)
-
-## ![image](IMG/like.svg) Our Contributors
-
-<a href="https://github.com/ndleah/python-mini-project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ndleah/python-mini-project" />
-</a>
-
-## ![image](IMG/muscle.svg) Feedback
-
-If you have any feedback or ideas to improve this project, feel free to contact me via
-
-<a href="https://www.linkedin.com/in/ndleah/">
-  <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-</a>
-<a href="https://github.com/ndleah">
-  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
