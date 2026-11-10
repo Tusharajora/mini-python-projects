@@ -24,4 +24,4 @@ These are listed in `requirements.txt` . USe the below command to install these 
 
 ## 🤖 Author
 
-[Pradhyuman Arora](https://github.com/pradhyumanarora)
+[Tushar Rajora](https://github.com/Tusharajora)
