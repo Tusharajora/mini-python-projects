@@ -27,4 +27,4 @@ python eggcatcher.py
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/eggcatcher.gif" width=40% height=40%>
 
 ## 🤖 Author
-[Tushar Rajora](https://github.com/ndleah)
+[Tushar Rajora](https://github.com/Tusharajora)
