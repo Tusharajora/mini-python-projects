@@ -23,4 +23,4 @@
 
 ## *Author Name*
 
-[Prafull Sonawane](https://github.com/prafuel)
+[Tushar Rajora](https://github.com/Tusharajora)
