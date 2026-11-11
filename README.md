@@ -4,65 +4,12 @@ A curated collection of beginner-to-intermediate Python projects demonstrating c
 
 ---
 
-## 📂 Projects Overview
-
-| # | Project | Folder | Description | Key Concepts / Libraries |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | **Automated Mailing** | [`Automated_Mailing`](./Automated_Mailing) | Automates sending emails to single or multiple recipients with custom subjects and bodies. | `smtplib`, `email`, Automation |
-| 2 | **Egg Catcher Game** | [`Egg_Catcher`](./Egg_Catcher) | An interactive arcade-style game where players catch falling eggs to score points before running out of lives. | `tkinter` / `pygame`, Event Handling, Game Loop |
-| 3 | **Password Manager** | [`Password_manager`](./Password_manager) | Generates strong random passwords and securely stores or retrieves credentials locally. | `random`, `json` / File I/O, GUI / CLI |
-| 4 | **Expense Tracker** | [`expense_Tracker`](./expense_Tracker) | Tracks daily income and expenses by category to help monitor spending habits. | File Handling (`csv` / `json`), Data Structures |
-| 5 | **Minion Game** | [`minion_game`](./minion_game) | A string-manipulation word game where two players score points by forming vowel- and consonant-starting substrings. | String Slicing, Loops, Algorithmic Logic |
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
 * **Python 3.8+** installed on your system.
 * `pip` (Python package manager) for installing any external dependencies.
 
-### Installation & Running a Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com
-   cd mini-python-projects
-   ```
-
-2. **Navigate to a specific project folder**
-   ```bash
-   cd Automated_Mailing
-   ```
-
-3. **Install dependencies (if a `requirements.txt` file is present)**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Python script**
-   ```bash
-   python main.py
-   ```
-   *(Note: Replace `main.py` with the actual entry script filename inside that project's folder.)*
-
----
-
-## 🛠️ Tech Stack
-* **Language:** Python 3
-* **Tools & Libraries:** Standard Python Libraries (`os`, `random`, `json`, `smtplib`, `tkinter`, etc.)
-
----
-
-## 👤 Author
-
-**Tushar**  
-* GitHub: [@Tusharajora]()
-* LinkedIn: [Add Your LinkedIn Profile Link Here](# 🐍 Mini Python Projects
-
-A curated collection of beginner-to-intermediate Python projects demonstrating core programming concepts, GUI development, automation, and file handling.
-
----
 
 ## 📂 Projects Overview
 
