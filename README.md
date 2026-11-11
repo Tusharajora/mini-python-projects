@@ -71,7 +71,7 @@ A curated collection of beginner-to-intermediate Python projects demonstrating c
 
 **Tushar**  
 * GitHub: [@Tusharajora](https://github.com/Tusharajora)
-* LinkedIn: [Add Your LinkedIn Profile Link Here](https://www.linkedin.com/in/tushar-rajora-50b55542a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* LinkedIn: [Linkedin/Tusharajora](https://www.linkedin.com/in/tushar-rajora-50b55542a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
@@ -80,6 +80,3 @@ This repository is open-source and available under the [MIT License](LICENSE).
 )
 
 ---
-
-## 📄 License
-This repository is open-source and available under the [MIT License](LICENSE).
