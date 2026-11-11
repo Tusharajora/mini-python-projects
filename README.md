@@ -4,13 +4,6 @@ A curated collection of beginner-to-intermediate Python projects demonstrating c
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-* **Python 3.8+** installed on your system.
-* `pip` (Python package manager) for installing any external dependencies.
-
-
 ## 📂 Projects Overview
 
 | # | Project | Folder | Description | Key Concepts / Libraries |
