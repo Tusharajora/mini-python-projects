@@ -27,7 +27,7 @@ A curated collection of beginner-to-intermediate Python projects demonstrating c
 1. **Clone the repository**
    ```bash
    git clone https://github.com
-   cd YOUR-REPO-NAME
+   cd mini-python-projects
    ```
 
 2. **Install dependencies (required for Automated Mailing)**
